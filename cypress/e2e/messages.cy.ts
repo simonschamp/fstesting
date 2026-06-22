@@ -1,6 +1,7 @@
 /// <reference types="cypress" />
 
 describe("Register Page", () => {
+  //This is the test suite
   beforeEach(() => {
     //cy.deleteTestUser("testuser"); //Delete existing testUser
     cy.intercept("POST", "http://localhost:8000/user/register", {
