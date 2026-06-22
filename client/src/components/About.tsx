@@ -4,7 +4,7 @@ const About = () => {
     <div>
       <h2>About</h2>
       <p>
-        This project is a full-stack project built to be tested with authomated
+        This project is a full-stack project built and tested with authomated
         testing tool: Cypress, Robot Framework. Please note that this project is
         also tested with Selenium in the second chapter of this project. If you
         need access to both projects, please get intouch with me
@@ -27,12 +27,13 @@ const About = () => {
         React frontend and NodeJS/Express backend. This is a demo app with
         minimal curated frontend. <br />
         You can test the drag-and-drop feature in the "GETFORMINPUT" after
-        adding several messages!
+        adding several messages! Have fun
       </p>
 
       <p>
         Your feedback is welcome, you can contact me through:
-        simonsheg@outlook.com
+        simonsheg@outlook.com or through my LinkedIn
+        page:https://www.linkedin.com/in/simon-ihegbu/
       </p>
     </div>
   );
