@@ -1,5 +1,6 @@
 import useFetch from "./useFetch";
 
+// This is an interface
 interface IComments {
   postId: number;
   id: number;
