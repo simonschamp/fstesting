@@ -20,6 +20,8 @@ Backend:
 
 Database:
 -	MongoDB
+
+
 Testing:
 Cypress, Robot Framework, and Selenium
 Command line
@@ -33,4 +35,5 @@ To start contributing to this project
 - Clone the project: git clone <git address>
 - npm install
 - cd in <project name>
+
 More information: simonsheg@outlook.com
