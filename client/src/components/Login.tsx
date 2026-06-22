@@ -33,6 +33,7 @@ const fetchData = async (username: string, password: string) => {
   }
 };
 
+//The log in function
 const Login = () => {
   const [username, setUsername] = useState<string>("");
   const [password, setPassword] = useState<string>("");
