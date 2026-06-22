@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 
 const UseEffectDemo = () => {
-  // State
+  // create the State
   const [dataType, setDataType] = useState<string>("posts");
   const [data, setData] = useState<string>("");
 
