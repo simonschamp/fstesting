@@ -5,7 +5,7 @@ import path from "path";
 import router from "./routes/app.js"; //must include .js for ESM
 import userRouter from "./routes/user.js";
 import messagesRouter from "./routes/messages.js";
-import testRouter from "./routes/test.js"; // NEW
+import testRouter from "./routes/test.js";
 import morgan from "morgan";
 import mongoose from "mongoose";
 import cors from "cors";
@@ -46,7 +46,7 @@ app.use(
     origin: "http://localhost:5173",
     optionsSuccessStatus: 200,
     credentials: true, // for allowing cookies
-  })
+  }),
 );
 
 // Parse JSON and URL-encoded data
