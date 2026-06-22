@@ -32,8 +32,8 @@ Features/functionalities
 Create, read, update, delete (CRUD) messages, drag-and-drop, authentication, API fetching and rendering, translations, Database mocking, form input, and submissions 
 
 To start contributing to this project 
-- Clone the project: git clone <"git address">
+- Clone the project: git clone "git address"
 - npm install
-- cd in <"project name">
+- cd into the project's "name"
 
 More information: simonsheg@outlook.com
