@@ -24,6 +24,8 @@ Database:
 
 Testing:
 Cypress, Robot Framework, and Selenium
+
+
 Command line
 -	npm run dev
 
