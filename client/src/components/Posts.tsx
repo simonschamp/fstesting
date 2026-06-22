@@ -6,7 +6,7 @@ interface IPosts {
   title: string;
   body: string;
 }
-
+// Post function
 const Posts = () => {
   const url: string = "https://jsonplaceholder.typicode.com/posts";
 
