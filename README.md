@@ -35,7 +35,9 @@ Create, read, update, delete (CRUD) messages, drag-and-drop, authentication, API
 
 To start contributing to this project 
 - Clone the project: git clone "git address"
-- npm install
 - cd into the project's "name"
+- Start testing
+
+You can make a pull request
 
 More information: simonsheg@outlook.com
